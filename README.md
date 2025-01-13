@@ -1,5 +1,6 @@
 # SolarFlarePredition
 The "Solar Flare Prediction" is a repository for Solar flare  prediction using LSTM and DLSTM with a Sliding window.
+This work applies the LSTM and DLSTM networks on the sliding window (peak flux and within time) to predict the occurrence of solar flares. 
 
  # Keywords
 Solar flare, Imbalance data, Resampling, LSTM, and Decomposition.
