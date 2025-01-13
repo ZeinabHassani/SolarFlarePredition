@@ -19,6 +19,7 @@ The project includes the following:
 
 # DataSet
 The dataset includes a list of solar flare events from 2003 to 2023 that were obtained  from x-ray GOES data(https://doi.org/10.5281/zenodo.10560188). 
+this work employs peak flux and waiting time of flares for the prediction of Solar flares
 
 # Results
 <img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/roc_0_0_2f_30_LSTM .png" width="400" />  <img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/roc_0_0_2f_30_D.png" width="400" />
