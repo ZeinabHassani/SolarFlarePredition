@@ -10,7 +10,7 @@ The project includes the following:
 
    1. Preprocessing: Smoothing,  and Normalization.
 
-   2. Resampling: Oversampling Sliding window
+   2. Resampling: Oversampling Sliding Window
 
    3. Prediction Solar flare: LSTM and DLSTM networks.
 
