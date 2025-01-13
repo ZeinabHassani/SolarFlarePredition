@@ -1,6 +1,4 @@
 # SolarFlarePredition
----
-
 The "Solar Flare Prediction" is a repository for Solar flare  prediction using LSTM and DLSTM with a Sliding window.
 This work applies the  Long Short-Term Memory (LSTM) and Deep Decomposition-LSTM (DLSTM) networks on the sliding window (peak flux and within time) to predict the occurrence of solar flares. 
 
@@ -29,3 +27,8 @@ ROC of LSTM and DLSTM without resampling
 <img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/roc_12_0_2f_30_LSTM .png" width="400" />  <img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/roc_12_0_2f_30_D .png" width="400" />
 
 ROC of LSTM  and DLSTM  with R=12   
+
+# Authors
+[Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
+# License
+
