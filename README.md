@@ -3,7 +3,7 @@ The "Solar Flare Prediction" is a repository for Solar flare  prediction using L
 This work applies the  Long Short-Term Memory (LSTM) and Deep Decomposition-LSTM (DLSTM) networks on the sliding window (peak flux and within time) to predict the occurrence of solar flares. 
 
  # Keywords
-Solar flare, Time series, Imbalance data, Resampling, LSTM, and Decomposition.
+Solar flare, Time series, Imbalanced data, Resampling, LSTM, and Decomposition.
 
 # Overview
 The project includes the following:
@@ -29,7 +29,7 @@ this work employs peak flux and waiting time of flares for the prediction of Sol
 Our results include 
 1) LSTM and DLSTM models without resampling and 2) LSTM and DLSTM models with oversampling  R=12, and size window=24.
 
-<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/roc_0_0_2f_30_LSTM .png" width="400" />  <img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/roc_0_0_2f_30_D.png" width="400" />
+<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R0.eps" width="400" />  <img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R12.eps" width="400" />
 
 ROC of LSTM and DLSTM without resampling 
 
