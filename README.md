@@ -28,8 +28,10 @@ This work employs peak fluxes and waiting times of irregular flare time series. 
 # Results
 Our results include six different models in the irregular(original data) and regular flare without resampling R=0 and with oversampling  R=12, by size window=24.
 
-<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R0.png" width="400" />ROC of six models without resampling 
-<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R12.png" width="400" />ROC of six models  with R=12   
+<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R0.png" width="400" />
+ROC of six models without resampling 
+<img src="https://github.com/ZeinabHassani/SolarFlarePredition/blob/main/Results/ROC_6models_R12.png" width="400" />
+ROC of six models  with R=12   
 
 # Authors
 [Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
