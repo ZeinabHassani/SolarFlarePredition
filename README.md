@@ -8,8 +8,8 @@ Solar flare, Time series, Imbalance data, Resampling, LSTM, and Decomposition.
 # Overview
 The project includes the following:
 
-   1. Preprocessing: Smoothing,  and Normalization.
-
+   1. Preprocessing: Smoothing, Normalization, and Regularization.
+    
    2. Resampling: Oversampling Sliding Window
 
    3. Prediction Solar flare: The six models trained for solar flare prediction, each differing in time series format (irregular vs. regular), resampling techniques, and LSTM architecture (LSTM vs. DLSTM). The models utilize a sliding window approach on flare time series and include:
