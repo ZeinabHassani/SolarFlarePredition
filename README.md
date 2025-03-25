@@ -13,9 +13,9 @@ The project includes the following:
    2. Resampling: Oversampling Sliding Window
 
    3. Prediction Solar flare: The six models trained for solar flare prediction, each differing in time series format (irregular vs. regular), resampling techniques, and LSTM architecture (LSTM vs. DLSTM). The models utilize a sliding window approach on flare time series and include:
-   i. LSTM applied to irregular time series with various resampling strategies,
-   ii. DLSTM on irregular time series with different resampling,
-   ** 3)  LSTM on regular time series with a 3-hour interval and resampling,
+  Markup: 1) LSTM applied to irregular time series with various resampling strategies,
+2) DLSTM on irregular time series with different resampling,
+   3)  LSTM on regular time series with a 3-hour interval and resampling,
    4)  DLSTM on regular time series with a 3-hour interval and resampling,
    5)  LSTM on regular time series incorporating resampling and ensemble learning,
    6)  DLSTM on regular time series with resampling and ensemble learning.
