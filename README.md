@@ -20,11 +20,10 @@ The project includes the following:
 5) LSTM on regular time series incorporating resampling and ensemble learning,
 6) DLSTM on regular time series with resampling and ensemble learning.
 
-   * Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
+1. Number 1
+    1. NUmber 1.1
+    2. Number 1.2
+2. Number 2
 
 
 # DataSet
