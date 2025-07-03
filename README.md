@@ -38,10 +38,15 @@ ROC of six models with oversampling  R=12
 
 # Citation
 If it is useful, please cite our paper.
+
+
 @ARTICLE{inproceedings,
      author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein },
+     
      year = {2025},
+     
      title = {Solar Flare Prediction Using LSTM and DLSTM with Sliding Window Pattern Recognition},
+     
      doi = {https://doi.org/10.3847/1538-4365/addc73}
 }
 
