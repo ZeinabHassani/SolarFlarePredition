@@ -41,7 +41,7 @@ If you find this repository useful, please cite our paper:
 
   @ARTICLE{Solarflare_2025,
   
-  author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein },
+     author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein },
   
      year = {2025},
      
