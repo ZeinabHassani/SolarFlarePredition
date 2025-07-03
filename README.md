@@ -37,7 +37,8 @@ ROC of six models with oversampling  R=12
 [Zeinab Hassani](https://scholar.google.com/citations?user=tDYkBZMAAAAJ&hl=en), [Davud Mohammadpur](https://scholar.google.com/citations?user=f_JH18oAAAAJ&hl=en), and [Hossein Safari](https://scholar.google.com/citations?user=nCc1FV8AAAAJ&hl=en)
 
 # Citation
-If it is useful, please cite our paper:
+If you find this repository useful, please cite our paper:
+
   @ARTICLE{Solarflare_2025,  
      author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein },
           year = {2025},
