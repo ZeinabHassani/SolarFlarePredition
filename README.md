@@ -40,29 +40,15 @@ ROC of six models with oversampling  R=12
 If you find this repository useful, please cite our paper:
 
      @article{Hassani_2025,
-doi = {10.3847/1538-4365/addc73},
-url = {https://dx.doi.org/10.3847/1538-4365/addc73},
-year = {2025},
-month = {jul},
-publisher = {The American Astronomical Society},
-volume = {279},
-number = {1},
-pages = {27},
-author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein},
-title = {Solar Flare Prediction Using Long Short-term Memory (LSTM) and Decomposition-LSTM with Sliding Window Pattern Recognition},
-journal = {The Astrophysical Journal Supplement Series},
-}
-
-     @ARTICLE{Solarflare_2025,
-  
-     author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein },
-  
+     doi = {10.3847/1538-4365/addc73},
+     url = {https://dx.doi.org/10.3847/1538-4365/addc73},
      year = {2025},
-     
-     title = {Solar Flare Prediction Using LSTM and DLSTM with Sliding Window Pattern Recognition},
-     
-     doi = {https://doi.org/10.3847/1538-4365/addc73}
-     
+     month = {jul},
+     publisher = {The American Astronomical Society},
+     volume = {279},
+     number = {1},
+     pages = {27},
+     author = {Hassani, Zeinab and Mohammadpur, Davud and Safari, Hossein},
+     title = {Solar Flare Prediction Using Long Short-term Memory (LSTM) and Decomposition-LSTM with Sliding Window Pattern Recognition},
+     journal = {The Astrophysical Journal Supplement Series},
      }
-
-
